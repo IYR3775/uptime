@@ -7,7 +7,7 @@ sites:
   - name: Pwetzel Website
     url: https://pwetzel.ml
   - name: Pwetzel API
-    url: $https://api.pwetzel.ml/meme
+    url: https://api.pwetzel.ml/meme
   - name: Lavalink Node 01
     url: $https://pwetzelhlink.herokuapp.com/
     icon: https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg
@@ -16,10 +16,10 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  theme: ocean
+  theme: dark
   baseUrl: /uptime
   logoUrl: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Eo_circle_green_checkmark.svg/1200px-Eo_circle_green_checkmark.svg.png
-  name: IYA Uptime Monitor
+  name: Pwetzel Uptime Monitor
   introTitle: "Status Of Pwetzel Resources"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
