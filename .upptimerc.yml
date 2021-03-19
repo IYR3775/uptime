@@ -13,9 +13,6 @@ sites:
     maxResponseTime: 1000
   - name: Lavalink Node 01
     url: https://pwetzelhlink.herokuapp.com/
-    headers:
-    - "Authorization: Bearer youshallnotpass"
-    - "Content-Type: application/json"
     body: '{ "Num-shards": 1, "User-Id": "723112579584491571" }'
     icon: https://icon-library.com/images/heroku-icon/heroku-icon-28.jpg
 
@@ -34,14 +31,6 @@ status-website:
       href: /
    # - title: GitHub
      # href: https://github.com/$OWNER/$REPO
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "*/2 * * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/4 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
