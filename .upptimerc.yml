@@ -6,9 +6,11 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: Pwetzel Website
     url: https://pwetzel.ml
+    maxResponseTime: 1000
   - name: Pwetzel Meme API
     url: https://api.pwetzel.ml/meme
     icon: https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-server2-4417099_116631.png
+    maxResponseTime: 1000
   - name: Lavalink Node 01
     url: https://pwetzelhlink.herokuapp.com/
     icon: https://icon-library.com/images/heroku-icon/heroku-icon-28.jpg
