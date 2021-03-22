@@ -1,7 +1,7 @@
 url: https://api.pwetzel.ml/meme
-status: up
+status: degraded
 code: 200
-responseTime: 835
-lastUpdated: 2021-03-21T23:21:27.636Z
+responseTime: 2136
+lastUpdated: 2021-03-22T05:27:53.983Z
 startTime: Fri Mar 19 2021 11:09:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
