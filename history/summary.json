@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2125,
     "timeDay": 8947,
-    "timeWeek": 3248,
+    "timeWeek": 3477,
     "timeMonth": 2125,
     "timeYear": 2125,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://api.pwetzel.ml/meme",
     "icon": "https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-server2-4417099_116631.png",
     "slug": "pwetzel-meme-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 739,
     "timeDay": 572,
-    "timeWeek": 770,
+    "timeWeek": 759,
     "timeMonth": 739,
     "timeYear": 739,
     "dailyMinutesDown": {}
