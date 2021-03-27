@@ -4,7 +4,7 @@
     "url": "https://pwetzel.ml",
     "icon": "https://favicons.githubusercontent.com/pwetzel.ml",
     "slug": "pwetzel-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 739,
     "timeDay": 572,
-    "timeWeek": 811,
+    "timeWeek": 770,
     "timeMonth": 739,
     "timeYear": 739,
     "dailyMinutesDown": {}
